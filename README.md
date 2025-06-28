@@ -1,4 +1,4 @@
-Story Generator Application
+# Story Generator Application
 
 Overview:
 	This project uses multiple AI models to generate a multimedia story based on a user input prompt. 
